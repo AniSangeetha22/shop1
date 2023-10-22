@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AniSangeetha22/static/css/main.5c05b187.css",
+    "main.js": "/AniSangeetha22/static/js/main.c0ad0472.js",
+    "static/js/787.23170c61.chunk.js": "/AniSangeetha22/static/js/787.23170c61.chunk.js",
+    "static/media/1.png": "/AniSangeetha22/static/media/1.09b4267728c4e39c5172.png",
+    "static/media/3.png": "/AniSangeetha22/static/media/3.f06d4b582db0ce232d36.png",
+    "static/media/4.png": "/AniSangeetha22/static/media/4.bf6e571454ec9316bfd5.png",
+    "static/media/2.png": "/AniSangeetha22/static/media/2.8ea2b468a18af587262b.png",
+    "static/media/applogo.png": "/AniSangeetha22/static/media/applogo.42c82e8280d4d0f2c229.png",
+    "static/media/cartLogo.png": "/AniSangeetha22/static/media/cartLogo.100f9e1ee8d5840c84d3.png",
+    "static/media/revicons.eot": "/AniSangeetha22/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/AniSangeetha22/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/AniSangeetha22/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/AniSangeetha22/index.html",
+    "main.5c05b187.css.map": "/AniSangeetha22/static/css/main.5c05b187.css.map",
+    "main.c0ad0472.js.map": "/AniSangeetha22/static/js/main.c0ad0472.js.map",
+    "787.23170c61.chunk.js.map": "/AniSangeetha22/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c05b187.css",
+    "static/js/main.c0ad0472.js"
+  ]
+}
